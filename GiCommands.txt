@@ -1,3 +1,10 @@
 1- git init
 2- git status
-3- git commit -m "first changes"
+3- git add filename
+4- git commit -m "first changes"
+5- git checkout -b branchName
+6- git push origin branchName
+7- git remote add origin https://github.com/{account name}/{repo name}
+8- git push  -u origin master
+9- git log
+10- git pull origin master
